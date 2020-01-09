@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\AdvancedLambdaEpressions\AdvancedLambdaEpressions\bin\Debug\AdvancedLambdaEpressions.exe.config
+C:\Users\User\source\repos\AdvancedLambdaEpressions\AdvancedLambdaEpressions\bin\Debug\AdvancedLambdaEpressions.exe
+C:\Users\User\source\repos\AdvancedLambdaEpressions\AdvancedLambdaEpressions\bin\Debug\AdvancedLambdaEpressions.pdb
+C:\Users\User\source\repos\AdvancedLambdaEpressions\AdvancedLambdaEpressions\obj\Debug\AdvancedLambdaEpressions.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AdvancedLambdaEpressions\AdvancedLambdaEpressions\obj\Debug\AdvancedLambdaEpressions.exe
+C:\Users\User\source\repos\AdvancedLambdaEpressions\AdvancedLambdaEpressions\obj\Debug\AdvancedLambdaEpressions.pdb
+D:\Projekty_VS\AdvancedLambdaEpressions\AdvancedLambdaEpressions\bin\Debug\AdvancedLambdaEpressions.exe.config
+D:\Projekty_VS\AdvancedLambdaEpressions\AdvancedLambdaEpressions\bin\Debug\AdvancedLambdaEpressions.exe
+D:\Projekty_VS\AdvancedLambdaEpressions\AdvancedLambdaEpressions\bin\Debug\AdvancedLambdaEpressions.pdb
+D:\Projekty_VS\AdvancedLambdaEpressions\AdvancedLambdaEpressions\obj\Debug\AdvancedLambdaEpressions.csprojAssemblyReference.cache
+D:\Projekty_VS\AdvancedLambdaEpressions\AdvancedLambdaEpressions\obj\Debug\AdvancedLambdaEpressions.exe
+D:\Projekty_VS\AdvancedLambdaEpressions\AdvancedLambdaEpressions\obj\Debug\AdvancedLambdaEpressions.pdb
